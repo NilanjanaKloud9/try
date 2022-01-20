@@ -1,0 +1,20 @@
+{
+  "name": "try1",
+  "version": "1.0.0",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node program.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilanjanaKloud9/try.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NilanjanaKloud9/try/issues"
+  },
+  "homepage": "https://github.com/NilanjanaKloud9/try#readme",
+  "description": ""
+}
